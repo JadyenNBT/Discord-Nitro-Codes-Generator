@@ -1,6 +1,7 @@
 # Nitro Gen
 
-This project is for educational purposes and read only.
-#### Should not be used to exploit Discord or any related platform.
+This project is for educational purposes only.
 
-Feel free to star 🌟 the repository if it helped
+<b>Should not be used to exploit Discord or any related platform. </b>
+
+Feel free to star 🌟 the repository.
